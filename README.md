@@ -1,7 +1,7 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/fcabfa63230683.5aa9bd41653e3.gif" width="1000" height="300">
 <h1>Hi everyone, I'm Nhan<img src="https://media.giphy.com/media/f3oXKfLFPCQxdLECS8/giphy.gif" width="60"></h1>
 <p><em>I'm a college student at HCMUTE</p>
-  <img align='right' src="https://user-images.githubusercontent.com/96874717/147762879-5ab215f9-c366-4152-ac7b-5dbc8e80ef1f.jpg" width="370">
+  <img align='right' src="https://user-images.githubusercontent.com/96874717/147762879-5ab215f9-c366-4152-ac7b-5dbc8e80ef1f.jpg" width="300">
 <h2>A little about me <img src="https://media.giphy.com/media/mtAU9hD8qdrBC/giphy.gif" width="30"></h2>
   
 <p><em>My name: Dinh Ngoc Nhan<br>Nick name: Sieu Nhan Dien Quang<br>Date of Birth: 18/09/2003<br>Hometown: Quang Ngai<br>My ex: QT</p>
