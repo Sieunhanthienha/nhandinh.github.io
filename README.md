@@ -4,7 +4,7 @@
   <img align='right' src="https://user-images.githubusercontent.com/96874717/147762879-5ab215f9-c366-4152-ac7b-5dbc8e80ef1f.jpg" width="300">
 <h2>A little about me <img src="https://media.giphy.com/media/mtAU9hD8qdrBC/giphy.gif" width="30"></h2>
   
-<p><em>My name: Dinh Ngoc Nhan<br>Nick name: Sieu Nhan Dien Quang<br>Date of Birth: 18/09/2003<br>Hometown: Quang Ngai</p>
+<p><em>My name: Dinh Ngoc Nhan<br>Date of Birth: 18/09/2003<br>Hometown: Quang Ngai</p>
 
   <h2> Education<img src="https://media.giphy.com/media/3hoLIVAJYkz6T0Ichp/giphy.gif" width="50"></h2>
   <ul>
